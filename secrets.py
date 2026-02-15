@@ -1,0 +1,5 @@
+mqtt_address = ""
+mqtt_user = ""
+mqtt_password = ""
+wifi_username = ""
+wifi_password = ""
