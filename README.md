@@ -136,4 +136,4 @@ Connect to the Pico via USB serial monitor (115200 baud) to see debug output:
 
 ## Author
 
-Based on work by rinyjithin
+Based on work by jithinkunjachan
